@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "615815582379",
+    "project_id": "pombademo",
+    "storage_bucket": "pombademo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615815582379:android:aa1b3e87f07ae91ceeddee",
+        "android_client_info": {
+          "package_name": "com.pomba.demoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "615815582379-h9s4s5qr7502cnv86e0f4u3c3gqfvbnt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqUx0Yfy47Eu0fgWBChxA4PYOShsJmHy4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "615815582379-h9s4s5qr7502cnv86e0f4u3c3gqfvbnt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
